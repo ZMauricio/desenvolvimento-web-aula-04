@@ -1,7 +1,8 @@
-# Desenvolvimento Web Front-End Aula 03
+# Desenvolvimento Web Front-End Aula 04
 ## Aula sobre:
 	* Criação da página de detalhes do aluno;
 	* Lista dos alunos;
+  * Tabela de alunos no painel administrativo;
 	* Uso de mocking para os testes.
 
 # ModeloNgxBootstrap
